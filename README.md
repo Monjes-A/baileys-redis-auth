@@ -1,6 +1,6 @@
 # baileys-redis-auth
 
-✅ **Baileys v7.0.0-rc.6 Compatible** - Fixes critical serialization bugs
+✅ **Baileys v7.0.0-rc.9 Compatible** - Fixes critical serialization bugs
 
 `baileys-redis-auth` is a library designed to seamlessly integrate Redis as an authentication state storage solution for [Baileys](https://github.com/WhiskeySockets/Baileys), the powerful WhatsApp Web API library. By leveraging Redis, this module allows you to persist Baileys sessions, enabling your application to resume connections without needing to re-scan QR codes frequently. This is particularly useful for applications requiring robust and scalable session management.
 
